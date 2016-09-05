@@ -1,7 +1,7 @@
-export default modules => {
+module.exports = module => {
   const modulePaths = []
 
-  for (const moduleInfo of modules.children) {
+  for (const moduleInfo of module.children) {
     const pathParts = moduleInfo.filename.split('/')
     let where = ''
 
