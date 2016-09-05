@@ -1,0 +1,19 @@
+{
+  "name": "module-paths",
+  "version": "0.1.0",
+  "description": "Load the paths of your dependencies",
+  "main": "index.js",
+  "repository": "leo/module-paths",
+  "keywords": [
+    "modules",
+    "packages",
+    "paths",
+    "absolute"
+  ],
+  "author": "leo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leo/module-paths/issues"
+  },
+  "homepage": "https://github.com/leo/module-paths#readme"
+}
