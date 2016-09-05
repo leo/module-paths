@@ -1,6 +1,6 @@
 {
   "name": "module-paths",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Load the paths of your dependencies",
   "main": "index.js",
   "repository": "leo/module-paths",
