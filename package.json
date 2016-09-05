@@ -10,6 +10,9 @@
     "paths",
     "absolute"
   ],
+  "files": [
+    "index.js"
+  ],
   "author": "leo",
   "license": "MIT",
   "bugs": {
