@@ -1,7 +1,10 @@
-module.exports = module => {
+// Native
+const path = require('path')
+
+module.exports = mainModule => {
   const modulePaths = []
 
-  for (const moduleInfo of module.children) {
+  for (const moduleInfo of mainModule.children) {
     const pathParts = moduleInfo.filename.split('/')
     let where = ''
 
