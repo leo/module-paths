@@ -1,2 +1,3 @@
 # module-paths
-Load the paths of your dependencies
+
+Load the paths of your dependencies:
