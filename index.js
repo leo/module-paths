@@ -5,7 +5,7 @@ module.exports = mainModule => {
   const modulePaths = []
 
   for (const moduleInfo of mainModule.children) {
-    const pathParts = moduleInfo.filename.split('/')
+    const pathParts = moduleInfo.filename.split(path.sep)
     let where = ''
 
     for (const part of pathParts) {
