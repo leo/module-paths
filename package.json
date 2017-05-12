@@ -14,9 +14,5 @@
     "index.js"
   ],
   "author": "leo",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/leo/module-paths/issues"
-  },
-  "homepage": "https://github.com/leo/module-paths#readme"
+  "license": "MIT"
 }
